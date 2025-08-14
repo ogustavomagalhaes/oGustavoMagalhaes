@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gustavo H M Gomes
+# Gustavo Henrique Magalhães Gomes
 
 **`Desenvolvedora FullStack`**
 
