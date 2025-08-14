@@ -1,6 +1,6 @@
 # Gustavo Henrique Magalhães Gomes
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor`**
 
 Me chamo Gustavo Henrique Magalhães Gomes, tenho 32 anos e sou natural de Curitiba/PR. Sou formado em Administração. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCPR.
 
